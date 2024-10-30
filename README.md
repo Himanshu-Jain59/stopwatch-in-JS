@@ -5,7 +5,6 @@ A simple stopwatch application built with JavaScript, HTML, and CSS. This projec
 - Start and stop the stopwatch
 - Reset the stopwatch to zero
 - Display elapsed time in hours, minutes, seconds, and milliseconds
-- Responsive design for use on various devices
 
 ### Technologies Used
 - HTML
