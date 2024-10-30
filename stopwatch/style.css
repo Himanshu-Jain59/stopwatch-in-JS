@@ -14,13 +14,17 @@ body {
   width: auto;
 }
 #myH1 {
+  position: fixed;
+  top: 3rem;
   font-size: 4rem;
+  color: aliceblue;
 }
-/* .time {
-  font-size: 9rem;
+#display {
+  font-size: 3.5rem;
   font-weight: bold;
   color: #d7dfe4;
-} */
+  margin-bottom: 2rem;
+}
 button {
   padding: 0.5rem 1.5rem;
   margin: 0 0.6rem;
@@ -30,12 +34,12 @@ button {
   cursor: pointer;
   border-radius: 1rem;
 }
-/* #start {
+#startBtn {
   background-color: #1abc9c;
 }
-#stop {
+#stopBtn {
   background-color: #3498db;
 }
-#reset {
+#resetBtn {
   background-color: #e74c3c;
-} */
+}
